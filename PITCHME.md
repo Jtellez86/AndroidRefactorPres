@@ -53,9 +53,7 @@ There is no single perfect solution to how you build your views. Sorry.
 - BaseGhrnActivity
   - activity_content(FrameLayout) 
     - ~~content_frame(FrameLayout)~~
-      - fragment_rescue_detail(Actual View)
-
-###### `*` We might be able to clean up even more 
+      - fragment_rescue_detail(Actual View) - how much further does it go?
 ---
 
 ## Single Fragment Activities

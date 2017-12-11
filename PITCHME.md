@@ -22,8 +22,8 @@ There is no single perfect solution to how you build your views. Sorry.
 
 ---
 ### BaseGhrnActivity
-###### Take note of how we are adding views
 ![](./screenshots/baseGhrn/baseGhrnBefore.png)
+###### Take note of how we are adding views
 
 ---
 ### History

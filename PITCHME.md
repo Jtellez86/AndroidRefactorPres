@@ -40,7 +40,7 @@ There is no single perfect solution to how you build your views. Sorry.
 
 ---
 ### Active Rescue List Fragment
- ![](./screenshots/activeRescue/activeRescueFragment.png)
+![](./screenshots/activeRescue/activeRescueFragment.png)
 ---
 
 ### Rescue Detail

@@ -31,14 +31,11 @@ There is no single perfect solution to how you build your views. Sorry.
 * Uses a fragment
 * Uses databinding in Fragment
 * Still has some behavior it is responsible for
-
-ActiveRescueActivity
 ![](./screenshots/activeRescue/activeRescueActivityBefore.png)
 
 ---
 ### Active Rescue List Fragment
  ![](./screenshots/activeRescue/activeRescueFragment.png)
-
 ---
 
 ### Rescue Detail

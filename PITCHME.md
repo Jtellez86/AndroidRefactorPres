@@ -48,7 +48,7 @@ There is no single perfect solution to how you build your views. Sorry.
 ### How Rescue Detail Fragments are born
 ![](./screenshots/rescueDetail/replaceContent.png)
 
----?image=https://ae01.alicdn.com/kf/HTB1mtFLMXXXXXcaaXXXq6xXFXXXS/Traditional-Russian-Matryoshka-Nesting-Dolls-Gifts-For-Kids-Home-Decorating-Ideas-Wooden-Toys-For-Toddlers-5pc.jpg_640x640.jpg
+---
 ### Sidebar: "Nested doll" view
 `BaseGhrnActivity -> activity_content(FrameLayout) -> content_frame(FrameLayout) -> fragment_rescue_detail(Actual View)`
 

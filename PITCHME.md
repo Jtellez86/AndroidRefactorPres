@@ -45,7 +45,7 @@ There is no single perfect solution to how you build your views. Sorry.
 ![](./screenshots/rescueDetail/rescueDetailActivity.png)
 
 ---
-### How RescueDetailFragments are born
+### How Rescue Detail Fragments are born
 ![](./screenshots/rescueDetail/replaceContent.png)
 
 ---

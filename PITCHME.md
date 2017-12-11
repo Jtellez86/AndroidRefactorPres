@@ -22,7 +22,7 @@ There is no single perfect solution to how you build your views. Sorry.
 
 ---
 ### BaseGhrnActivity
-![](./screenshots/baseGhrn/baseGhrnBefore.png)
+![](./screenshots/baseGhrn/baseGHRNBefore.png)
 ###### Take note of how we are adding views
 
 ---
